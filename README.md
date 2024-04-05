@@ -1,0 +1,1 @@
+This repository houses the complete set of code and data required to generate the figures and perform the statistical analysis presented in the manuscript titled "A Fitness Distribution Law for Amino-Acid Replacements". The code files can be found within the 'Codes' directory, while the raw data files are located in the 'Data' directory.
